@@ -3,11 +3,16 @@ feito no visual studio. aula para aprender métodos e classes no C#
 <br><br>
 
 <div align="center">
-  <h3>Form com os campos para preencher</h3>
-  <img src="ImagensProg/1.png">
+  <h3>Calculadora com os campos para preencher e o resultado da Soma escrito no campo do label</h3>
+  <img src="ImagensProg/1.png"> <img src="ImagensProg/2.png">
 </div>
 <br><br>
 <div align="center">
-  <h3>Resultado</h3>
-  <img src="ImagensProg/2.png">
+  <h3>Resultado da Multiplicação escrito no campo do label e o Resultado da Subtração escrito no campo do label</h3>
+  <img src="ImagensProg/3.png"> <img src="ImagensProg/4.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Resultado da Divisão escrito no campo do label</h3>
+  <img src="ImagensProg/5.png">
 </div>
