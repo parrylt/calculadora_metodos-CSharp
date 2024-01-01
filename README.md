@@ -1,5 +1,5 @@
 # calculadora_metodos-CSharp
-feito no visual studio. aula para aprender métodos e classes no C#
+feito no visual studio. aula para aprender métodos e classes no C#. Aula na Etec de Guarulhos.
 <br><br>
 
 <div align="center">
